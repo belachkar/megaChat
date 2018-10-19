@@ -1,6 +1,14 @@
 # Megachat
 
+It's a chat web application, created using Angular v6.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
+
+Created using : :+1:
+
+>**Angular v6**,
+**RxJS v6.3**,
+**@angular/fire v5**
 
 ## Development server
 
